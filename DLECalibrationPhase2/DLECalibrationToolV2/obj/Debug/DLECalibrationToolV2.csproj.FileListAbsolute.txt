@@ -1,0 +1,134 @@
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\DisplayMessages.resx
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\DisplayMessages.Designer.cs
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe.config
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Comments.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LoadingWindow.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_CreateNewUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.StopDLECommentBox.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UserProfileForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.DisplayMessages.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.CalibrationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Email_AddNewUser.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LoginForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SMTPSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TrendsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.PISettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SerialPortSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.ARTNetSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LogFileLocationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AboutForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.HistoryForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Properties.Resources.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Resource1.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_UpdateUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.EmailRecipientsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UsersForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csproj.GenerateResource.Cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\DLE Code 13th July-WithBackendCode\Menu-NewForm-WithBackendCode\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\bin\Debug\DisplayMessages.resx
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\bin\Debug\DisplayMessages.Designer.cs
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe.config
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Comments.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_CreateNewUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.StopDLECommentBox.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UserProfileForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.DisplayMessages.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.CalibrationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Email_AddNewUser.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LoginForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SMTPSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TrendsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.PISettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SerialPortSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.ARTNetSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LogFileLocationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AboutForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.HistoryForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Properties.Resources.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Resource1.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_UpdateUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.EmailRecipientsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UsersForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csproj.GenerateResource.Cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\DisplayMessages.resx
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\DisplayMessages.Designer.cs
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe.config
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AnnotatePITag.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Comments.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_CreateNewUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.StopDLECommentBox.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UserProfileForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.DisplayMessages.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.CalibrationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Email_AddNewUser.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LoginForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SMTPSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TrendsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.PISettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SerialPortSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.ARTNetSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LogFileLocationForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AboutForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.HistoryForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Properties.Resources.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Resource1.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_UpdateUserForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.EmailRecipientsForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UsersForm.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csproj.GenerateResource.Cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TestEmailForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe.config
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\DisplayMessages.resx
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\DisplayMessages.Designer.cs
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.exe
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\DLECalibrationToolV2.pdb
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\bin\Debug\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AnnotatePITag.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Comments.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TestEmailForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_CreateNewUserForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.StopDLECommentBox.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UserProfileForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.DisplayMessages.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.CalibrationForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Email_AddNewUser.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LoginForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SMTPSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.TrendsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.PISettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.SerialPortSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.ARTNetSettingsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.LogFileLocationForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.AboutForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.HistoryForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Properties.Resources.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Resource1.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.Users_UpdateUserForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.EmailRecipientsForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.UsersForm.resources
+C:\Users\sbbsrt\Videos\DLE Calibration Phase 2 Application Final Version - 23rd June\DLE Calibration Phase 2\DLECalibrationToolV2\obj\Debug\DLECalibrationToolV2.csproj.GenerateResource.Cache

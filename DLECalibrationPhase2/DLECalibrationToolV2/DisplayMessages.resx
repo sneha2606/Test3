@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="application_closebtnclick" xml:space="preserve">
+    <value>Do you want to Exit the Application?</value>
+  </data>
+  <data name="appsettings_configerror" xml:space="preserve">
+    <value>Error reading app settings.</value>
+  </data>
+  <data name="appsettings_empty" xml:space="preserve">
+    <value>AppSettings is empty.</value>
+  </data>
+  <data name="cancel_logout" xml:space="preserve">
+    <value>Do you want to exit logging in to application?</value>
+  </data>
+  <data name="client_argumentnullexception" xml:space="preserve">
+    <value>Argument Null Exception:</value>
+  </data>
+  <data name="client_argumentoutofrangeexception" xml:space="preserve">
+    <value>Argument Out Of Range Exception:</value>
+  </data>
+  <data name="client_invalidoperatorexception" xml:space="preserve">
+    <value>Invalid Operator Exception:</value>
+  </data>
+  <data name="client_objectdisposedexception" xml:space="preserve">
+    <value>Object Disposed Exception:</value>
+  </data>
+  <data name="client_socketexception" xml:space="preserve">
+    <value>Socket Exception:</value>
+  </data>
+  <data name="client_socketexceptionerror" xml:space="preserve">
+    <value>Socket Exception Error:</value>
+  </data>
+  <data name="comments_nopanelrun" xml:space="preserve">
+    <value>Please specify the reason for session exit.</value>
+  </data>
+  <data name="confsettings_noupdates" xml:space="preserve">
+    <value>No updates detected.</value>
+  </data>
+  <data name="datefromdateto_incorrectorder" xml:space="preserve">
+    <value>Date From should be before Date To.</value>
+  </data>
+  <data name="deleteemail_confirmation" xml:space="preserve">
+    <value>Do you want to delete the selected user email details?</value>
+  </data>
+  <data name="dlecontrol_notselected" xml:space="preserve">
+    <value>Please select Panel Number and Measurement Location.</value>
+  </data>
+  <data name="dlestopbutton_click" xml:space="preserve">
+    <value>Please enter reason for aborting the DLE.</value>
+  </data>
+  <data name="emailcreate_success" xml:space="preserve">
+    <value>Email details created successfully.</value>
+  </data>
+  <data name="emailid_notfound" xml:space="preserve">
+    <value>No email ids found.</value>
+  </data>
+  <data name="emailsent_msg" xml:space="preserve">
+    <value>Tolerance Report has been sent through email.</value>
+  </data>
+  <data name="emailupdate_success" xml:space="preserve">
+    <value>Email details deleted successfully.</value>
+  </data>
+  <data name="entercomments_afterdlerun" xml:space="preserve">
+    <value>Do you want to enter any comments?</value>
+  </data>
+  <data name="excel_installincorrect" xml:space="preserve">
+    <value>Excel has not been installed properly.</value>
+  </data>
+  <data name="fileselect_msg" xml:space="preserve">
+    <value>Please select a file from the dropdown list.</value>
+  </data>
+  <data name="general_error" xml:space="preserve">
+    <value>Error: </value>
+  </data>
+  <data name="ipadd_incorrect" xml:space="preserve">
+    <value>Unable to parse IP Address for DLE Blizzard Device.</value>
+  </data>
+  <data name="jigposition_confirm" xml:space="preserve">
+    <value>Confirm position of Jig?</value>
+  </data>
+  <data name="konica_error" xml:space="preserve">
+    <value>Konica Device Error:</value>
+  </data>
+  <data name="login_blank" xml:space="preserve">
+    <value>Username and Password cannot be empty.</value>
+  </data>
+  <data name="logsfile_updatesuccess" xml:space="preserve">
+    <value>Logs File location updated successfully.</value>
+  </data>
+  <data name="movavg_recalccheck" xml:space="preserve">
+    <value>Please Wait. We are setting up the environment and checking If Moving avg has to be recalculated.</value>
+  </data>
+  <data name="movingavg_calccomplete" xml:space="preserve">
+    <value>Moving avg recalculation check is complete.</value>
+  </data>
+  <data name="tobedeleted_notepad_error" xml:space="preserve">
+    <value>Error in Notepad File.</value>
+  </data>
+  <data name="piserver_error" xml:space="preserve">
+    <value>Unknown server specified! Please check if the PI Server is correct.</value>
+  </data>
+  <data name="pisettings_updatesuccess" xml:space="preserve">
+    <value>PI settings updated successfully.</value>
+  </data>
+  <data name="prevsession_reportsending" xml:space="preserve">
+    <value>Sending report for previous session.Please wait till report has been sent.</value>
+  </data>
+  <data name="progtrend_chk" xml:space="preserve">
+    <value>Progressive trends check going on. User cannot exit session.</value>
+  </data>
+  <data name="savedata_msg" xml:space="preserve">
+    <value>Do you want to save all the data?</value>
+  </data>
+  <data name="session_exit" xml:space="preserve">
+    <value>Do you want to Exit the Session?</value>
+  </data>
+  <data name="session_open" xml:space="preserve">
+    <value>The Session is still open. Please Exit the session.</value>
+  </data>
+  <data name="tolerancefilelocation_incorrect" xml:space="preserve">
+    <value>Incorrect File Location: Tolerance data file does not exist in the location specified.</value>
+  </data>
+  <data name="tolfileupdate_msg" xml:space="preserve">
+    <value>Tolerance File is being updated.Please wait till it is done.</value>
+  </data>
+  <data name="udpport_incorrect" xml:space="preserve">
+    <value>UDP Port entered is in incorrect format.</value>
+  </data>
+  <data name="usernameemail_exists" xml:space="preserve">
+    <value>The username or email id already exists.</value>
+  </data>
+  <data name="loginusercreate_success" xml:space="preserve">
+    <value>New login User created successfully.</value>
+  </data>
+  <data name="passwordconfpassword_nomatch" xml:space="preserve">
+    <value>Password and Confirm password should be the same.</value>
+  </data>
+  <data name="userdetailsupdate_success" xml:space="preserve">
+    <value>User details updated successfully. </value>
+  </data>
+  <data name="email_mandatory" xml:space="preserve">
+    <value>Email field cannot be empty.</value>
+  </data>
+  <data name="artnetupdate_success" xml:space="preserve">
+    <value>ARTNet settings updated successfully.</value>
+  </data>
+  <data name="ipadd_mandatory" xml:space="preserve">
+    <value>IP Address field cannot be empty.</value>
+  </data>
+  <data name="movingavg_failed" xml:space="preserve">
+    <value>Please restart the application again as moving avg calculation failed.</value>
+  </data>
+  <data name="movingavg_PIerror" xml:space="preserve">
+    <value>Moving Avg calculation cannot be done as PI Settings are incorrect. Please restart the application.</value>
+  </data>
+  <data name="pisettings_chk" xml:space="preserve">
+    <value>Please check under Settings-&gt;PI Settings if correct PI Settings has been specified else contact the Administrator.</value>
+  </data>
+  <data name="sessionexit_reason" xml:space="preserve">
+    <value>Please specify the reason for session exit and click on Submit button.</value>
+  </data>
+  <data name="comments_min10" xml:space="preserve">
+    <value>Please enter minimum 10 characters.</value>
+  </data>
+  <data name="confirmpassword_mandatory" xml:space="preserve">
+    <value>Confirm Password field cannot be empty.</value>
+  </data>
+  <data name="currentpassword_mandatory" xml:space="preserve">
+    <value>Current Password field cannot be empty.</value>
+  </data>
+  <data name="isactive_mandatory" xml:space="preserve">
+    <value>Is Acive field cannot be empty.</value>
+  </data>
+  <data name="newpassword_mandatory" xml:space="preserve">
+    <value>New Password field cannot be empty.</value>
+  </data>
+  <data name="passwordmandatory" xml:space="preserve">
+    <value>Password field cannot be empty.</value>
+  </data>
+  <data name="username_mandatory" xml:space="preserve">
+    <value>Username field cannot be empty.</value>
+  </data>
+  <data name="usertype_mandatory" xml:space="preserve">
+    <value>User Type field cannot be empty.</value>
+  </data>
+  <data name="logsfilelocation_mandatory" xml:space="preserve">
+    <value>File Location field cannot be empty.</value>
+  </data>
+  <data name="portmandatory" xml:space="preserve">
+    <value>Port field cannot be empty.</value>
+  </data>
+  <data name="smtpenablessl_mandatory" xml:space="preserve">
+    <value>SMTP Enable SSL field cannot be empty.</value>
+  </data>
+  <data name="smtpport_mandatory" xml:space="preserve">
+    <value>SMTP Port field cannot be empty.</value>
+  </data>
+  <data name="smtpsendemail_mandatory" xml:space="preserve">
+    <value>SMTP Send Email ID field cannot be empty.</value>
+  </data>
+  <data name="smtpserver_mandatory" xml:space="preserve">
+    <value>SMTP Server field cannot be empty.</value>
+  </data>
+  <data name="afdb_mandatory" xml:space="preserve">
+    <value>AFDB field cannot be empty.</value>
+  </data>
+  <data name="afserver_mandatory" xml:space="preserve">
+    <value>AF Server field cannot be empty.</value>
+  </data>
+  <data name="baudrate_mandatory" xml:space="preserve">
+    <value>Baud rate field cannot be empty.</value>
+  </data>
+  <data name="comport_mandatory" xml:space="preserve">
+    <value>COM Port field cannot be empty.</value>
+  </data>
+  <data name="databits_mandatory" xml:space="preserve">
+    <value>Data Bits field cannot be empty.</value>
+  </data>
+  <data name="email_exists" xml:space="preserve">
+    <value>Email Id already exists.</value>
+  </data>
+  <data name="luxcct_mandatory" xml:space="preserve">
+    <value>Lux/CCT field cannot be empty.</value>
+  </data>
+  <data name="mptloc_mandatory" xml:space="preserve">
+    <value>Mpt Location field cannot be empty.</value>
+  </data>
+  <data name="newpwdconfirmpwd_nomatch" xml:space="preserve">
+    <value>New Password and Confirm password should be the same.</value>
+  </data>
+  <data name="panel_mandatory" xml:space="preserve">
+    <value>Panel field cannot be empty.</value>
+  </data>
+  <data name="parity_mandatory" xml:space="preserve">
+    <value>Parity field cannot be empty.</value>
+  </data>
+  <data name="piserver_mandatory" xml:space="preserve">
+    <value>PI Server field cannot be empty.</value>
+  </data>
+  <data name="stopbits_mandatory" xml:space="preserve">
+    <value>Stop Bits field cannot be empty.</value>
+  </data>
+  <data name="errorlogslocation_incorrect" xml:space="preserve">
+    <value>Incorrect Logs File Location: Location to store logs is incorrect. </value>
+  </data>
+  <data name="sqcchartslocation_incorrect" xml:space="preserve">
+    <value>Incorrect File Location: SQC Charts does not exist in the location specified.</value>
+  </data>
+  <data name="client_ipaddress_argumentoutofrange" xml:space="preserve">
+    <value>IP Address Out Of Range Exception:</value>
+  </data>
+  <data name="serialportupdate_success" xml:space="preserve">
+    <value>Serial Port Settings updated successfully.</value>
+  </data>
+  <data name="smtpupdate_success" xml:space="preserve">
+    <value>SMTP Settings updated successfully.</value>
+  </data>
+  <data name="emailid_incorrect" xml:space="preserve">
+    <value>Email id entered is in incorrect format.</value>
+  </data>
+  <data name="userprofileupdate_success" xml:space="preserve">
+    <value>User Profile details updated successfully.</value>
+  </data>
+  <data name="comport_check" xml:space="preserve">
+    <value>Please check under Settings-&gt;Serial Port Settings-&gt;Edit if correct COMPort has been selected</value>
+  </data>
+  <data name="currentpassword_incorrect" xml:space="preserve">
+    <value>Current Password entered is incorrect.</value>
+  </data>
+  <data name="logsFolder_notFound" xml:space="preserve">
+    <value>Logs folder does not exist in the location specified =&gt;</value>
+  </data>
+  <data name="mysql_error" xml:space="preserve">
+    <value>MySQL Error:</value>
+  </data>
+  <data name="smtpsendemailpassword_mandatory" xml:space="preserve">
+    <value>SMTP Send Email password cannot be empty.</value>
+  </data>
+</root>

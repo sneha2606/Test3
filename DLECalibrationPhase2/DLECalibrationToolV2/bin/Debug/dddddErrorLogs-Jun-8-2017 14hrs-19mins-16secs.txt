@@ -1,0 +1,2 @@
+8/6/2017 2:19:25 PM ==> Form Name : CalibrationForm, Exception Type : OSIsoft.AF.PI.PITimeoutException, Target Site : Void ConvertAndThrowException(OSIsoft.AF.PI.PIServer, System.Exception, System.String),	Error Message : [-10010] PI System Timed Out, Inner Exception : 
+8/6/2017 2:19:30 PM ==> Form Name : CalibrationForm, Exception Type : System.Exception, Target Site : Void serialPortConfigurations(System.String, System.IO.Ports.Parity, Int32, Int32, Int32),	Error Message : Please check if Konica device is connected., Inner Exception : 
